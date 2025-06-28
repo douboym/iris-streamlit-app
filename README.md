@@ -44,4 +44,13 @@ Ce projet vise à :
 ---
 
 ## 🗂️ Structure du projet
-
+iris-streamlit-app/
+├── assets/ # Images de démonstration
+├── models/ # Modèles .joblib
+├── notebooks/ # Notebook d'entraînement
+├── src/
+│ ├── app.py # Fichier principal Streamlit
+│ └── utils.py # Fonctions auxiliaires
+├── README.md
+├── requirements.txt
+└── .gitignore
