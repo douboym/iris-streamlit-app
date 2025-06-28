@@ -43,15 +43,17 @@ Ce projet vise à :
 
 ---
 
-## 🗂️ Structure du projet
-iris-streamlit-app/
-## ├── assets/ # Images de démonstration
-## ├── models/ # Modèles .joblib
-## ├── notebooks/ # Notebook d'entraînement
-## ├── src/
-## │ ├── app.py # Fichier principal Streamlit
-## │ └── utils.py # Fonctions auxiliaires
-## ├── README.md
-## ├── requirements.txt
-## └── .gitignore
+## 📊 Données utilisées
 
+- Jeu de données Iris (Fisher, 1936)
+- 3 espèces de fleurs : Setosa, Versicolor, Virginica
+- 4 caractéristiques : longueurs et largeurs des pétales/sépales
+
+---
+
+## 👤 Auteur
+
+Mamadou Diedhiou
+📧 mdiedhio@gmail.com
+🔗 LinkedIn (à remplacer)
+💼 Alternant Chargé d'études statistiques / Data Analyst
