@@ -53,7 +53,7 @@ Ce projet vise à :
 
 ## 👤 Auteur
 
-Mamadou Diedhiou
-📧 mdiedhio@gmail.com
-🔗 LinkedIn (à remplacer)
-💼 Alternant Chargé d'études statistiques / Data Analyst
+**Mamadou Diedhiou**
+- 📧 mdiedhio@gmail.com
+- 🔗[ LinkedIn](https://www.linkedin.com/in/diedhiou/)
+- 💼 Alternant Chargé d'études statistiques / Data Analyst
